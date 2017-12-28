@@ -1,13 +1,21 @@
 .thumbnail img {
-max-height:  150px;
+    max-height: 150px;
 }
 
-.thumbnail .description { 
-color: #7f7f7f;
-
+.thumbnail .description {
+    color: #7f7f7f;
 }
 
-.price{
+.price {
     font-weight: bold;
     font-size: 16px;
+}
+
+.center-block {
+    float: none;
+}
+
+h3 {
+    text-align: center;
+    margin-top: 40px;
 }
